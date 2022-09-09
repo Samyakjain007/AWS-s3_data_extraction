@@ -1,2 +1,1 @@
-# code-ins
-# Raw codes for office-work
+# from s3 pull patch's data and processs over the data
